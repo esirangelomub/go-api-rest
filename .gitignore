@@ -22,3 +22,4 @@ go.work
 
 postgres-data
 .pgdata
+.idea
